@@ -4,7 +4,7 @@
   "description": "Three js animations",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "nodemon index.js",
     "build":"npm i && npm build"
 
   },
